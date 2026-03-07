@@ -40,7 +40,7 @@ The raw dataset was a single flat CSV file. Using Power Query, it was split into
 fOrders (fact)
 │
 ├── dProducts   → Product ID, Category, Sub-Category, Product Name
-├── dCustomers  → Customer ID, Customer Name, Segment
+|── dCustomers  → Customer ID, Customer Name, Segment
 ├── dLocation   → Postal Code, City, State, Region
 └── dCalendar   → Date, Year, Month, Quarter (built with DAX CALENDAR function)
 ```
