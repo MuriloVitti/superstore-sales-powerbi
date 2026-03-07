@@ -27,7 +27,7 @@ The goal was to answer key business questions that a real retail analyst would f
 2. Data cleaning and transformation using Power Query
 3. Star Schema modeling with 4 dimension tables + 1 fact table
 4. Calendar table creation using DAX CALENDAR function
-5. DAX measures development (basic → intermediate → advanced)
+5. DAX measures development 
 6. Dashboard design across 3 analytical pages
    
 ---
