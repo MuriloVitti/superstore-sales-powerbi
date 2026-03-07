@@ -14,6 +14,12 @@ The goal was to answer key business questions that a real retail analyst would f
 
 ---
 
+## Dashboard File
+The full interactive dashboard is available in this repository:
+[Download the .pbix file](Portfolio.pbix)
+
+---
+
 ## Tools & Technologies
 - Power BI Desktop
 - Power Query (M Language) — data cleaning and transformation
