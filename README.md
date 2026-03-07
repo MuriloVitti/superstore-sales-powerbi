@@ -22,6 +22,16 @@ The goal was to answer key business questions that a real retail analyst would f
 
 ---
 
+## Process
+1. Data import and regional settings adjustment (English US)
+2. Data cleaning and transformation using Power Query
+3. Star Schema modeling with 4 dimension tables + 1 fact table
+4. Calendar table creation using DAX CALENDAR function
+5. DAX measures development (basic → intermediate → advanced)
+6. Dashboard design across 3 analytical pages
+   
+---
+
 ## Data Modeling
 
 The raw dataset was a single flat CSV file. Using Power Query, it was split into a proper **Star Schema** with 5 tables:
