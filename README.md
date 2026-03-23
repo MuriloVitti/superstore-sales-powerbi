@@ -134,3 +134,13 @@ This project was designed to answer 9 key business questions across 3 analytical
 - **Colorado and Arizona investigation:** These markets are losing money despite generating sales. A regional pricing or discount audit is recommended.
 - **Home Office growth opportunity:** Despite being the smallest segment, Home Office customers are the most profitable. Targeted marketing investment in this segment could improve overall margins.
 - **Replicate West Region strategy:** West's combination of high volume and strong margin suggests operational or pricing practices worth replicating in Central and South regions.
+
+---
+
+---
+
+## Contact
+- LinkedIn: [Murilo Maffei Vitti](https://www.linkedin.com/in/murilomvitti/)
+- Email: [murilo.mvitti@gmail.com](mailto:murilo.mvitti@gmail.com)
+- GitHub: [MuriloVitti](https://github.com/MuriloVitti)
+```
